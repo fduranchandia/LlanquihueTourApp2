@@ -1,0 +1,8 @@
+San Pedro de Atacama;true;450000;4
+Torres del Paine;true;850000;5
+Isla de Pascua;false;950000;4
+Valle Nevado;true;180000;2
+Chiloé;false;320000;3
+Parque Nacional Conguillío;true;85000;2
+Reserva Nacional Pingüino de Humboldt;true;65000;1
+Valle del Elqui;false;120000;3

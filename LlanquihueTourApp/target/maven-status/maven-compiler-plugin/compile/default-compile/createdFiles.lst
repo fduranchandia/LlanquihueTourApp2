@@ -1,0 +1,4 @@
+com\agenciaturismo\app\Main.class
+com\agenciaturismo\service\TourService.class
+com\agenciaturismo\util\LectorArchivo.class
+com\agenciaturismo\model\Tour.class
